@@ -1,0 +1,140 @@
+[21:46:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:46:35] [ServerMain/INFO]: No existing world data, creating new world
+[21:46:36] [ServerMain/INFO]: Loaded 7 recipes
+[21:46:37] [ServerMain/INFO]: Loaded 1271 advancements
+[21:46:38] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[21:46:38] [Server thread/INFO]: Loading properties
+[21:46:38] [Server thread/INFO]: Default game type: SURVIVAL
+[21:46:38] [Server thread/INFO]: Generating keypair
+[21:46:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:46:39] [Server thread/INFO]: Using default channel type
+[21:46:39] [Server thread/INFO]: Preparing level "world"
+[21:46:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:46:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:46:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:46:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:46:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:46:45] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:46:46] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[21:46:47] [Worker-Main-3/INFO]: Preparing spawn area: 3%
+[21:46:47] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[21:46:47] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[21:46:48] [Worker-Main-1/INFO]: Preparing spawn area: 7%
+[21:46:50] [Worker-Main-5/INFO]: Preparing spawn area: 9%
+[21:46:50] [Worker-Main-5/INFO]: Preparing spawn area: 9%
+[21:46:50] [Worker-Main-3/INFO]: Preparing spawn area: 9%
+[21:46:50] [Worker-Main-3/INFO]: Preparing spawn area: 9%
+[21:46:50] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[21:46:51] [Worker-Main-4/INFO]: Preparing spawn area: 11%
+[21:46:51] [Worker-Main-4/INFO]: Preparing spawn area: 13%
+[21:46:52] [Worker-Main-4/INFO]: Preparing spawn area: 16%
+[21:46:52] [Worker-Main-4/INFO]: Preparing spawn area: 19%
+[21:46:53] [Worker-Main-6/INFO]: Preparing spawn area: 22%
+[21:46:53] [Worker-Main-3/INFO]: Preparing spawn area: 24%
+[21:46:54] [Worker-Main-6/INFO]: Preparing spawn area: 27%
+[21:46:54] [Worker-Main-5/INFO]: Preparing spawn area: 29%
+[21:46:55] [Worker-Main-3/INFO]: Preparing spawn area: 31%
+[21:46:55] [Worker-Main-4/INFO]: Preparing spawn area: 34%
+[21:46:56] [Worker-Main-1/INFO]: Preparing spawn area: 36%
+[21:46:56] [Worker-Main-2/INFO]: Preparing spawn area: 39%
+[21:46:57] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[21:46:57] [Worker-Main-2/INFO]: Preparing spawn area: 44%
+[21:46:58] [Worker-Main-1/INFO]: Preparing spawn area: 47%
+[21:46:58] [Worker-Main-6/INFO]: Preparing spawn area: 50%
+[21:46:59] [Worker-Main-3/INFO]: Preparing spawn area: 54%
+[21:47:00] [Worker-Main-5/INFO]: Preparing spawn area: 56%
+[21:47:00] [Worker-Main-4/INFO]: Preparing spawn area: 60%
+[21:47:00] [Worker-Main-1/INFO]: Preparing spawn area: 64%
+[21:47:01] [Worker-Main-6/INFO]: Preparing spawn area: 67%
+[21:47:01] [Worker-Main-4/INFO]: Preparing spawn area: 69%
+[21:47:02] [Worker-Main-5/INFO]: Preparing spawn area: 73%
+[21:47:02] [Worker-Main-4/INFO]: Preparing spawn area: 76%
+[21:47:03] [Worker-Main-5/INFO]: Preparing spawn area: 80%
+[21:47:03] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[21:47:04] [Worker-Main-7/INFO]: Preparing spawn area: 85%
+[21:47:04] [Worker-Main-2/INFO]: Preparing spawn area: 87%
+[21:47:05] [Worker-Main-7/INFO]: Preparing spawn area: 91%
+[21:47:05] [Worker-Main-1/INFO]: Preparing spawn area: 95%
+[21:47:06] [Worker-Main-1/INFO]: Preparing spawn area: 99%
+[21:47:06] [Server thread/INFO]: Time elapsed: 22561 ms
+[21:47:06] [Server thread/INFO]: Done (27.452s)! For help, type "help"
+[21:50:43] [User Authenticator #1/INFO]: UUID of player berl6708AXL is ccf7cbef-f3a1-4853-80cb-9281f47a611e
+[21:50:43] [Server thread/INFO]: berl6708AXL[/127.0.0.1:52023] logged in with entity id 183 at (-112.5, 64.0, -317.5)
+[21:50:43] [Server thread/INFO]: berl6708AXL joined the game
+[21:50:58] [Server thread/INFO]: berl6708AXL suffocated in a wall
+[21:51:00] [Server thread/WARN]: berl6708AXL moved too quickly! 168.8,1.0,254.0
+[21:51:45] [Server thread/INFO]: berl6708AXL lost connection: Disconnected
+[21:51:45] [Server thread/INFO]: berl6708AXL left the game
+[21:52:24] [Server thread/INFO]: Stopping server
+[21:52:24] [Server thread/INFO]: Saving players
+[21:52:24] [Server thread/INFO]: Saving worlds
+[21:52:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:52:24] [Server thread/ERROR]: Could not save data cgs@6c1bf28d
+java.nio.file.NoSuchFileException: .\world\data\raids.dat
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at ta.a(SourceFile:65) ~[server-1.20.4.jar:?]
+	at efw.a(SourceFile:45) ~[server-1.20.4.jar:?]
+	at egh.b(SourceFile:122) ~[server-1.20.4.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at egh.a(SourceFile:120) ~[server-1.20.4.jar:?]
+	at and.au(SourceFile:824) ~[server-1.20.4.jar:?]
+	at and.a(SourceFile:806) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:542) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.t(SourceFile:606) ~[server-1.20.4.jar:?]
+	at ama.t(SourceFile:542) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:718) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[server-1.20.4.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:52:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:52:28] [Server thread/ERROR]: Could not save data cgs@5979e883
+java.nio.file.NoSuchFileException: .\world\DIM-1\data\raids.dat
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at ta.a(SourceFile:65) ~[server-1.20.4.jar:?]
+	at efw.a(SourceFile:45) ~[server-1.20.4.jar:?]
+	at egh.b(SourceFile:122) ~[server-1.20.4.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at egh.a(SourceFile:120) ~[server-1.20.4.jar:?]
+	at and.au(SourceFile:824) ~[server-1.20.4.jar:?]
+	at and.a(SourceFile:806) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:542) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.t(SourceFile:606) ~[server-1.20.4.jar:?]
+	at ama.t(SourceFile:542) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:718) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[server-1.20.4.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:52:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:52:28] [Server thread/ERROR]: Could not save data cgs@3a5789b
+java.nio.file.NoSuchFileException: .\world\DIM1\data\raids_end.dat
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at ta.a(SourceFile:65) ~[server-1.20.4.jar:?]
+	at efw.a(SourceFile:45) ~[server-1.20.4.jar:?]
+	at egh.b(SourceFile:122) ~[server-1.20.4.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at egh.a(SourceFile:120) ~[server-1.20.4.jar:?]
+	at and.au(SourceFile:824) ~[server-1.20.4.jar:?]
+	at and.a(SourceFile:806) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:542) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.t(SourceFile:606) ~[server-1.20.4.jar:?]
+	at ama.t(SourceFile:542) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:718) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:270) ~[server-1.20.4.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:52:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:52:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:52:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:52:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
